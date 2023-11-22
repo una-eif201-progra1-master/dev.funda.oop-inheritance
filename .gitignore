@@ -37,3 +37,11 @@
 /sample
 
 .DS_Store
+
+build/.cmake/api/v1/query/client-vscode/
+
+build/.cmake/api/v1/reply/
+
+build/
+
+compile_commands.json
