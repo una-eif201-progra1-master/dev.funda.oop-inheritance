@@ -2,8 +2,8 @@
 
 ## Documentation
 
-- [Technical](https://una-eif201-progra1-master.github.io/dev.funda.oop-inheritance/?target=_blank)
-- [Course](https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/?target=_blank)
+- [Technical](https://una-eif201-progra1-master.github.io/dev.funda.oop-inheritance/ "target="_blank)
+- [Course](https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/ "target="_blank)
 
 ## Example
 
