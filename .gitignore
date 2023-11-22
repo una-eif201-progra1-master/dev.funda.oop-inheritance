@@ -45,3 +45,5 @@ build/.cmake/api/v1/reply/
 build/
 
 compile_commands.json
+
+.vscode/
