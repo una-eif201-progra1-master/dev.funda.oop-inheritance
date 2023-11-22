@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_vehicle.html" title="The class Vehicle is the base class." alt="" coords="5,5,70,31"/>
+<area shape="rect" id="Node000001" href="$class_car.html" title="The class Car inherits from Vehicle." alt="" coords="118,5,160,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="85,16,117,16,117,21,85,21"/>
+</map>

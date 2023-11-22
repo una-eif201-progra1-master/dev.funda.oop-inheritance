@@ -7,6 +7,12 @@
 
 #include "Vehicle.h"
 
+
+/*!
+ * \class Car
+ * \brief The class Car inherits from Vehicle
+ */
+
 class Car: public Vehicle {
 public:
     string model = "Mustang";

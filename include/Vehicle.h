@@ -9,7 +9,10 @@
 #include <string>
 using namespace std;
 
-// Example of Inheritance
+/*!
+ * \class Vehicle
+ * \brief The class Vehicle is the base class
+ */
 class Vehicle {
 public:
     string brand = "Ford";
