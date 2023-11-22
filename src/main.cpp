@@ -13,7 +13,7 @@
 
 #include "Car.h"
 
-/** !
+/*!
  * \file main.cpp
  * \brief The main.cpp file contains the entry point of the program.
  */
