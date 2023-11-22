@@ -1,8 +1,11 @@
 # Inheritance
 
-HTML Documentation: [Class Doc](doc/html/index.html)
+## Documentation
 
-https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/
+- [Technical](https://una-eif201-progra1-master.github.io/dev.funda.oop-inheritance/)
+- [Course](https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/)
+
+## Example
 
 ```c++
 // Example of Inheritance
