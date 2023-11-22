@@ -1,5 +1,7 @@
 # Inheritance
 
+HTML Documentation: [Class Doc](doc/html/index.html)
+
 https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/
 
 ```c++
