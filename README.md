@@ -2,8 +2,16 @@
 
 ## Documentation
 
-- [Technical](https://una-eif201-progra1-master.github.io/dev.funda.oop-inheritance/)
-- [Course](https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/)
+- [Technical pages](https://una-eif201-progra1-master.github.io/dev.funda.oop-inheritance/)
+- [Course website](https://mikeguzman.dev/software-development/programming-fundations/object-oriented-programming/)
+
+## Resources
+
+- [CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [CLion from Jetbrains](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html)
+- [Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+- [Repl.it](https://replit.com/@MaikolGuzman?path=folder/EIF201%20-%20Progra%201)
+- [Github Course Space](https://github.com/una-eif201-progra1-master)
 
 ## Project structure
 
