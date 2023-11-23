@@ -1,0 +1,7 @@
+<map id="/Users/mikeguzman/Projects/una/eif201&#45;p1/dev.funda.oop&#45;inheritance/include/Vehicle.h" name="/Users/mikeguzman/Projects/una/eif201&#45;p1/dev.funda.oop&#45;inheritance/include/Vehicle.h">
+<area shape="rect" id="Node000001" title="The class Vehicle is the base class." alt="" coords="5,5,197,61"/>
+<area shape="rect" id="Node000002" href="$_car_8h.html" title="The class Car inherits from Vehicle." alt="" coords="6,109,196,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,77,104,108,98,108,98,77"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="The main.cpp file contains the entry point of the program." alt="" coords="6,213,196,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,180,104,212,98,212,98,180"/>
+</map>

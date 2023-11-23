@@ -7,15 +7,16 @@
 
 #include "Vehicle.h"
 
-
 /*!
  * \class Car
+ * \file Car.h
  * \brief The class Car inherits from Vehicle
  */
 
-class Car: public Vehicle {
+class Car : public Vehicle
+{
 public:
     string model = "Mustang";
 };
 
-#endif //MAIN_CAR_H
+#endif // MAIN_CAR_H

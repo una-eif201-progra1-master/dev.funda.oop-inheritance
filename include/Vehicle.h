@@ -11,15 +11,18 @@ using namespace std;
 
 /*!
  * \class Vehicle
+ * \file Vehicle.h
  * \brief The class Vehicle is the base class
  */
-class Vehicle {
+class Vehicle
+{
 public:
     string brand = "Ford";
 
-    static void honk() {
+    static void honk()
+    {
         cout << "Tuut, tuut!" << endl;
     }
 };
 
-#endif //MAIN_VEHICLE_H
+#endif // MAIN_VEHICLE_H
