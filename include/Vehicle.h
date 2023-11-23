@@ -11,8 +11,9 @@ using namespace std;
 
 /*!
  * \class Vehicle
- * \file Vehicle.h
  * \brief The class Vehicle is the base class
+ * \file Vehicle.h
+ * \brief The file Vehicle.h is the header file of the class Vehicle
  */
 class Vehicle
 {

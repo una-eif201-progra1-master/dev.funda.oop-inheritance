@@ -9,8 +9,9 @@
 
 /*!
  * \class Car
- * \file Car.h
  * \brief The class Car inherits from Vehicle
+ * \file Car.h
+ * \brief The file Car.h is the header file of the class Car
  */
 
 class Car : public Vehicle

@@ -1,7 +1,7 @@
-<map id="/Users/mikeguzman/Projects/una/eif201&#45;p1/dev.funda.oop&#45;inheritance/include/Vehicle.h" name="/Users/mikeguzman/Projects/una/eif201&#45;p1/dev.funda.oop&#45;inheritance/include/Vehicle.h">
-<area shape="rect" id="Node000001" title="The class Vehicle is the base class." alt="" coords="5,5,197,61"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="23,109,94,135"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,62,73,96,69,94,85,60"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="118,109,172,135"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,60,134,94,130,96,112,62"/>
+<map id="include/Vehicle.h" name="include/Vehicle.h">
+<area shape="rect" id="Node000001" title="The file Vehicle.h is the header file of the class Vehicle." alt="" coords="24,5,144,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,77,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,33,58,67,54,64,74,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,79,154,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,30,114,64,110,67,89,33"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="Vehicle" name="Vehicle">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,65,71"/>
-<area shape="rect" id="Node000002" href="$class_car.html" title=" " alt="" coords="6,119,65,184"/>
+<area shape="rect" id="Node000001" title="The class Vehicle is the base class." alt="" coords="5,5,65,71"/>
+<area shape="rect" id="Node000002" href="$class_car.html" title="The class Car inherits from Vehicle." alt="" coords="6,119,65,184"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,85,38,119,33,119,33,85"/>
 </map>
