@@ -2,6 +2,10 @@
 // Created by Maikol Guzman on 21/11/23.
 //
 
+#include "Car.h"
+#include <iostream>
+#include <cstdlib>
+
 /*! \mainpage Example of Inheritance in C++
  *
  * This example is to show how to use inheritance in C++.
@@ -12,16 +16,10 @@
  * 
  * \date 2021-11-23
  * \copyright Maikol Guzman Alán - <a href="https://mikeguzman.dev/">mikeguzman.dev</a>
- */
-
-#include "Car.h"
-
-/*!
+ * 
  * \file main.cpp
  * \brief The main.cpp file contains the entry point of the program.
  */
-#include <iostream>
-#include <cstdlib>
 
 int main() {
     system("clear");
