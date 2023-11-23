@@ -18,22 +18,20 @@
 ```bash
 MyProject/
 │
-├── .github/workflows         # GitHub Actions workflow files
-├── docs/                     # Documentation files│
-├── src/                      # Source files directory
-│   ├── main.cpp              # Main program file
+├── .github/workflows         # [optional] GitHub Actions workflow files
+├── docs/                     # [optional] Documentation files│
+├── src/                      # [required] Source files directory
+│   ├── main.cpp              # [required] Main program file
 │   └── MyClass.cpp           # Implementation of MyClass
 │
-├── include/                  # Header files directory
+├── include/                  # [required] Header files directory
 │   └── MyClass.h             # Header for MyClass
 │
-├── .gitignore                # Git ignore file
-├── .replit                   # Repl.it configuration file
-├── replit.nix                # Repl.it configuration file
-├── CMakeLists.txt            # CMake configuration file
-├── README.md                 # README file
-└── build/                    # Directory for out-of-source builds
-
+├── .gitignore                # [required] Git ignore file
+├── .replit                   # [optional] Repl.it configuration file
+├── replit.nix                # [optional] Repl.it configuration file
+├── CMakeLists.txt            # [required] CMake configuration file
+└── README.md                 # [required] README file
 ```
 
 1. **.github/workflows**: This is a directory typically used in GitHub repositories for storing workflow files. GitHub
